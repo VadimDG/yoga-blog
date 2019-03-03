@@ -1,0 +1,5 @@
+https://medium.com/@adpreg/react-with-redux-app-with-azure-ad-auth-and-net-core-starter-project-88b1bbdb7856
+https://github.com/ashishqs/react-netcore-azuread-starter
+https://itnext.io/a-memo-on-how-to-implement-azure-ad-authentication-using-react-and-net-core-2-0-3fe9bfdf9f36
+https://www.appfoundry.be/blog/2018/11/24/authentication-with-adal-in-react-single-page-applications/
+https://github.com/appfoundry/react-adal-authentication-session-sample/tree/Authentication-with-ADAL-in-React-SPA
